@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 //OKKKK ADDED
+//ADd to Remote repo
 public interface EmployeeRepository extends CrudRepository<Employee, Integer> {
 
 }
